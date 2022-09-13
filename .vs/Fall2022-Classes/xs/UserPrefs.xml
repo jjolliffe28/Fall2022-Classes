@@ -1,4 +1,32 @@
 ﻿<Properties StartupConfiguration="{5B95B26B-0CD6-482D-9345-768B98731E92}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fall2022-Classes/Program.cs">
+    <Files>
+      <File FileName="Fall2022-Classes/Program.cs" Line="34" Column="1" />
+      <File FileName="Fall2022-Classes/Class.cs" Line="79" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fall2022-Classes" expanded="True">
+            <Node name="Fall2022-Classes" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Fall2022-Classes FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Fall2022-Classes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

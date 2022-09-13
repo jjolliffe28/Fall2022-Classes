@@ -49,8 +49,36 @@ namespace Fall2022_Classes
 	    }
 
         // Methods
+        // basic setup:
+        // acessModifier returnType name () { code to run; }
 
+        public void Accelerate()  // void means it returns nothing - just modifying speed
+        {
+            Speed += 5; 
+	    }      
 
+        public void Accelerate(int speed) // Method overload
+        {
+            Speed += speed;
+	    }
+
+        // Static method example
+
+        public static void Honk()
+        {
+            Console.WriteLine("Honk!");
+
+	    }
+
+        public float TimeToTravelDistance(int distance)
+        {
+            if (Speed == 0)
+            {
+                return 0;
+	        }
+
+            return distance / (float)Speed;
+	    }
 
     }
 }
