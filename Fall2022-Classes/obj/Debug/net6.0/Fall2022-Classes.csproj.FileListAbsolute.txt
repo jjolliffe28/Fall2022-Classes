@@ -1,0 +1,15 @@
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Classes/Fall2022-Classes/Fall2022-Classes/bin/Debug/net6.0/Fall2022-Classes
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Classes/Fall2022-Classes/Fall2022-Classes/bin/Debug/net6.0/Fall2022-Classes.deps.json
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Classes/Fall2022-Classes/Fall2022-Classes/bin/Debug/net6.0/Fall2022-Classes.runtimeconfig.json
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Classes/Fall2022-Classes/Fall2022-Classes/bin/Debug/net6.0/Fall2022-Classes.dll
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Classes/Fall2022-Classes/Fall2022-Classes/bin/Debug/net6.0/Fall2022-Classes.pdb
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Classes/Fall2022-Classes/Fall2022-Classes/obj/Debug/net6.0/Fall2022-Classes.csproj.AssemblyReference.cache
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Classes/Fall2022-Classes/Fall2022-Classes/obj/Debug/net6.0/Fall2022-Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Classes/Fall2022-Classes/Fall2022-Classes/obj/Debug/net6.0/Fall2022-Classes.AssemblyInfoInputs.cache
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Classes/Fall2022-Classes/Fall2022-Classes/obj/Debug/net6.0/Fall2022-Classes.AssemblyInfo.cs
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Classes/Fall2022-Classes/Fall2022-Classes/obj/Debug/net6.0/Fall2022-Classes.csproj.CoreCompileInputs.cache
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Classes/Fall2022-Classes/Fall2022-Classes/obj/Debug/net6.0/Fall2022-Classes.dll
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Classes/Fall2022-Classes/Fall2022-Classes/obj/Debug/net6.0/refint/Fall2022-Classes.dll
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Classes/Fall2022-Classes/Fall2022-Classes/obj/Debug/net6.0/Fall2022-Classes.pdb
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Classes/Fall2022-Classes/Fall2022-Classes/obj/Debug/net6.0/Fall2022-Classes.genruntimeconfig.cache
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Classes/Fall2022-Classes/Fall2022-Classes/obj/Debug/net6.0/ref/Fall2022-Classes.dll
